@@ -1,8 +1,3 @@
 # Intern-Career
-Power BI dashboard offering a comprehensive overview of global terrorism trends and patterns using data from the Terrorism Database.
-The Terrorism Database contains information about terrorist
-attacks worldwide. It includes details such as the date,
-location, attack type, weapons used, number of casualties,
-and responsible groups. Your task is to create a Power BI
-dashboard that provides a comprehensive overview of
-global terrorism trends and patterns.
+Terrorism Database - Power BI dashboard offering a comprehensive overview of global terrorism trends and patterns using data from the Terrorism Database.
+COVID-19 Daily Cases - Power BI dashboard offering visualizations and insights into the progression and impact of the COVID-19 pandemic using the COVID-19 Daily Cases dataset.
